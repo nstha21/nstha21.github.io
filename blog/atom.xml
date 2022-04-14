@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://nstha21.github.io/blog</id>
 	<author>
-		<name>Nishtha Shrestha</name>
+		<name>Nish</name>
 		<email>nishlearns@gmail.com</email>
 	</author>
  
